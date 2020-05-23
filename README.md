@@ -1,11 +1,11 @@
 ![alt text](https://buildone.blob.core.windows.net/images/logo_tecnologia_default.png "Buildone Tecnologia")
 
+## Informações da Vaga
+https://buildone.app/vagas-desenvolvedor-backend/
+
 ## Developer Backend
 
 Você provavelmente já está participando do nosso processo seletivo, mas se você caiu aqui por acaso, leia esse documento até o final e se você se interessar, pode começar o processo à partir daqui ;)
-
-## Informações da Vaga
-https://buildone.app/vagas-desenvolvedor-backend/
 
 Você será avaliado pela sua capacidade de escrever um código simples, de fácil manutenção, e pela quantidade de funcionalidades que você entregar.
 
@@ -17,7 +17,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
     - Backend: Asp.Net Core 3.1
     - Frontend: A seu critério ;) 
     - Banco de dados: Relacional ou NoSQL
-- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para contato@buildone.app informando o link do repositório.
+- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para contato@buildone.app informando o link do repositório. Caso você tenha iniciado o processo aqui pelo desafio, envie o seu CV junto com o repositório ;)
 
 ### Desafio
 
