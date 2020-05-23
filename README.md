@@ -14,7 +14,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
     - Backend: Asp.Net Core 3.1
     - Frontend: A seu critério ;) 
     - Banco de dados: Relacional ou NoSQL
-- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para guilherme@buildone.app informando o link do repositório.
+- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para contato@buildone.app informando o link do repositório.
 
 ### Desafio
 
