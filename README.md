@@ -23,16 +23,16 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 
 - Listagem de Tickets
     - Mostrar apenas essas informações:
-    - Título
-    - Data da Ocorrência
-    - Prioridade
-    - Status
-    - Pendente
-    - Resolvido
-    - Ações
-      - Editar
-      - Resolver
-      - Excluir
+        - Título
+        - Data da Ocorrência
+        - Prioridade
+        - Status
+        - Pendente
+        - Resolvido
+        - Ações
+          - Editar
+          - Resolver
+          - Excluir
     - Mostrar botão de "Novo Ticket"
     
  - Criação/Edição de Ticket
