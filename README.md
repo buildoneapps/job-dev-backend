@@ -4,6 +4,9 @@
 
 Você provavelmente já está participando do nosso processo seletivo, mas se você caiu aqui por acaso, leia esse documento até o final e se você se interessar, pode começar o processo à partir daqui ;)
 
+## Informações da Vaga
+https://buildone.app/vagas-desenvolvedor-backend/
+
 Você será avaliado pela sua capacidade de escrever um código simples, de fácil manutenção, e pela quantidade de funcionalidades que você entregar.
 
 ### Instruções
