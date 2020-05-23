@@ -2,7 +2,7 @@
 
 ## Developer Backend
 
-Você provavelmente já está participando do nosso processo seletivo, mas se você caiu aqui por acaso, leia esse documento até o final e se você se interessar, pode começar o processo à partir daqui =]
+Você provavelmente já está participando do nosso processo seletivo, mas se você caiu aqui por acaso, leia esse documento até o final e se você se interessar, pode começar o processo à partir daqui ;)
 
 Você será avaliado pela sua capacidade de escrever um código simples, de fácil manutenção, e pela quantidade de funcionalidades que você entregar.
 
@@ -93,4 +93,4 @@ Você pode escolher qualquer uma delas. Não queremos te influenciar, mas optar 
 
 ### Boa sorteeee! 
 
-![alt text](https://theplaylist.net/wp-content/uploads/2020/03/Michael-scott-The-Office-Steve-Carell-750x400.jpg "Boa sorteeee! ")
+![alt text](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif "Boa sorteeee! ")
