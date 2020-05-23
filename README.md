@@ -27,8 +27,8 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
         - Data da Ocorrência
         - Prioridade
         - Status
-        - Pendente
-        - Resolvido
+            - Pendente
+            - Resolvido
         - Ações
           - Editar
           - Resolver
